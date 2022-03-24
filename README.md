@@ -33,6 +33,12 @@ Spent another countless hours to add more features to make this Gantt chart to b
 
 <ins>Overview of Gantt Chart<ins/>
 ![image](https://user-images.githubusercontent.com/88188300/159829010-f0a4f6d4-b601-46b5-9a0f-7325df2f775c.png)
+![image](https://user-images.githubusercontent.com/88188300/159832593-e6de905e-d0fb-4d51-8bb5-c4fc1e437b11.png)
+![image](https://user-images.githubusercontent.com/88188300/159832627-1e1da559-4610-4d18-81ea-224c56d5f9d6.png)
+![image](https://user-images.githubusercontent.com/88188300/159832518-ce6dbaf8-811b-49b0-b708-0fc2b1ab206f.png)
 
-Overview of Settings Tab
+
+<ins>Overview of Settings Tab<ins/>
 ![image](https://user-images.githubusercontent.com/88188300/159829015-f9019280-564b-4577-978d-f89917f66691.png)
+![image](https://user-images.githubusercontent.com/88188300/159832726-cec24f19-c3b5-4f79-894b-47fcb532225a.png)
+
