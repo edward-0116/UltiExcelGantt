@@ -20,7 +20,18 @@ Spent another countless hours to add more features to make this Gantt chart to b
 
 ---
 
-Overview of Gantt Chart
+<ins>Main Features<ins/>
+- Auto colouring
+- Task's predecessors (Start-to-Start, Finish-to-Start, Finish-to-Finish, Start-to-Finish)
+- Non working day
+- Support up to 14 roles assignment
+- Progress tracking
+- Gantt snapshot tracking
+- Critical tasks display
+- Many more....
+  
+
+<ins>Overview of Gantt Chart<ins/>
 ![image](https://user-images.githubusercontent.com/88188300/159829010-f0a4f6d4-b601-46b5-9a0f-7325df2f775c.png)
 
 Overview of Settings Tab
