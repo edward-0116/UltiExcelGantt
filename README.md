@@ -1,5 +1,5 @@
-# UltiExcelGantt
-Ultimate Excel Gantt Chart
+# Ultimate Excel Gantt Chart
+
 
 
 I spent 4 hours of my weekend time to create this Gantt chart by following Youtube link below.		
