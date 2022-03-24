@@ -4,6 +4,7 @@ Ultimate Excel Gantt Chart
 
 I spent 4 hours of my weekend time to create this Gantt chart by following Youtube link below.		
 Credit to original developer.		
+
 https://www.youtube.com/watch?v=OizqFlMtZLQ&ab_channel=TheOfficeLab		
 https://excelfind.com/excel_templates/ultimate-excel-gantt-chart/		
 
