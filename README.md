@@ -10,12 +10,6 @@ https://excelfind.com/excel_templates/ultimate-excel-gantt-chart/
 
 <br/>
 Spent another countless hours to add more features to make this Gantt chart to be more viable.		
-
->My work will stay free.
->Feel free to buy me a cup of coffee if you like my work. 😁		
->
->Paypal:		https://paypal.me/FooYangYi?country.x=MY&locale.x=en_US
-
 <br/>
 
 ---
@@ -42,3 +36,13 @@ Spent another countless hours to add more features to make this Gantt chart to b
 ![image](https://user-images.githubusercontent.com/88188300/159829015-f9019280-564b-4577-978d-f89917f66691.png)
 ![image](https://user-images.githubusercontent.com/88188300/159832726-cec24f19-c3b5-4f79-894b-47fcb532225a.png)
 
+
+
+>My work will stay free.
+>Feel free to buy me a cup of coffee if you like my work. 😁		
+>
+>Paypal:		https://paypal.me/FooYangYi?country.x=MY&locale.x=en_US
+>
+>Touch N Go:
+>
+>  ![TNG](https://user-images.githubusercontent.com/88188300/170867471-2e3dbbf5-a5ee-4e1b-a743-05dec98c1f86.png)
